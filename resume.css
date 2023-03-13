@@ -12,17 +12,17 @@
 .hr0 {width:70%; float:left; margin:-5px 0 0 30px;}
 .phone {width:100%; float:left;}
 .phone h3 {color:white; margin:-25px 0 0 65px; font-family:Candara; font-size:16px;}
-.phone p {color:white; color:#666; margin:0 0 0 60px; font-family:Candara; font-size:14px;}
+.phone p {color:white; color:#e4eeef; margin:0 0 0 60px; font-family:Calibri; font-size:14px;}
 .volume {color:white; margin:15px 0 0 30px; font-size:14px;}
 
 .email {width:100%; float:left;}
 .email h3 {color:white; margin:-25px 0 0 60px; font-family:Candara; font-size:16px;}
-.email p {color:white; color:#666; margin:0 0 0 60px; font-family:Candara; font-size:14px;}
+.email p {color:white; color:#e4eeef; margin:0 0 0 60px; font-family:Calibri; font-size:14px;}
 .text_mail {color:white; margin:20px 0 0 30px; font-size:14px;}
 
 .address {width:100%; float:left;}
 .address h3 {color:white; margin:-25px 0 0 60px; font-family:Candara; font-size:16px;}
-.address p {color:white; color:#666; margin:0 0 0 60px; font-family:Candara; font-size:14px;}
+.address p {color:white; color:#e4eeef; margin:0 0 0 60px; font-family:Calibri; font-size:14px;}
 .chimney {color:white; margin:20px 0 0 30px; font-size:14px;}
 
 .reader {color:#03A9F4; margin:30px 0 0 30px; font-size:18px;}
@@ -30,7 +30,7 @@
 .education {width:100%; float:left;}
 .education h3 {color:white; margin:-42px 0 0 60px; font-family:Candara; font-size:16px;}
 .education h4 {color:white; margin:0 0 0 60px; font-family:Candara; font-size:15px;}
-.education p {color:white; color:#666; margin:0 0 0 60px; font-family:Candara; font-size:14px;}
+.education p {color:white; color:#e4eeef; margin:0 0 0 60px; font-family:Candara; font-size:14px;}
 
 .chevron3 {color:white; margin:30px 0 0 30px; font-size:18px;}
 
@@ -39,22 +39,22 @@
 .twelth {width:100%; float:left;}
 .twelth h3 {color:white; margin:-42px 0 0 60px; font-family:Candara; font-size:16px;}
 .twelth h4 {color:white; margin:0 0 0 60px; font-family:Candara; font-size:15px;}
-.twelth p {color:white; color:#666; margin:0 0 0 60px; font-family:Candara; font-size:14px;}
+.twelth p {color:white; color:#e4eeef; margin:0 0 0 60px; font-family:Candara; font-size:14px;}
 
 .degree {width:100%; float:left;}
 .degree h3 {color:white; margin:-40px 0 0 60px; font-family:Candara; font-size:16px;}
 .degree h4 {color:white; margin:0 0 0 60px; font-family:Candara; font-size:15px;}
-.degree p {color:white; color:#666; margin:0 0 0 60px; font-family:Candara; font-size:14px;}
+.degree p {color:white; color:#e4eeef; margin:0 0 0 60px; font-family:Candara; font-size:14px;}
 
 .ekeeda {width:100%; float:left;}
 .ekeeda h3 {color:white; margin:-35px 0 0 60px; font-family:Candara; font-size:16px;}
 .ekeeda h4 {color:white; margin:0 0 0 60px; font-family:Candara; font-size:15px;}
-.ekeeda p {color:white; color:#666; margin:0 0 0 60px; font-family:Candara; font-size:14px;}
+.ekeeda p {color:white; color:#e4eeef; margin:0 0 0 60px; font-family:Candara; font-size:14px;}
 
 .glob {color:#03A9F4; margin:38px 0 0 30px; font-size:18px;}
 .language_bar {width:100%; float:left;}
-.language_bar ul {color:#666; margin:0 0 0 10px;}
-.language_bar ul li {color:#666; margin:10px 0 0 0; font-family:Candara;}
+.language_bar ul {margin:0 0 0 10px;}
+.language_bar ul li {color:#e4eeef; margin:10px 0 0 0; font-family:Candara;}
 
 
 
@@ -120,8 +120,7 @@
 
 .hobbies0 {width:100%; float:left;}
 .hobbies0 h4 {margin:10px 0 0 70px;}
-/* .hobbies0 ul {margin:0 0 0 20px;} */
-/* .hobbies0 ul li {margin:10px 0 0 0; font-family:Candara;} */
+ 
 .icons {width:2%; float:left; color:green;}
 .taxi {margin:10px 0 0 44px;}
 
@@ -130,17 +129,3 @@
 
 .icons3 {width:2%; float:left; color:blue;}
 .music {margin:10px 0 0 44px;}
-
-
-
-
-/* .language_container {width: 100%; background-color: #ddd;} */
-/* .language_bar {width:100%; float:left; margin:-16px 0 0 45px;} */
-/* .skills_bar p {font-family:Candara;} */
-
-
-/* .english {width:90%; background-color: #04AA6D; text-align:right; padding-top: 10px; padding-bottom: 10px; color: white;} */
-/* .hindi {width:80%; background-color: #2196F3; text-align:right; padding-top: 10px; padding-bottom: 10px; color: white;} */
-/* .punjabi {width:60%; background-color: #f44336; text-align:right; padding-top: 10px; padding-bottom: 10px; color: white;} */
-
-
